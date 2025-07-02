@@ -68,7 +68,7 @@ application dépend de domain.
 interfaces et infrastructure dépendent de application ou domain.
 
 Arborescence du projet
-
+auheur : codewithlynonis 
 ```plaintext
 project/
 ├── domain/                # Contient les entités et règles métier
