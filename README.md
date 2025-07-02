@@ -39,8 +39,6 @@ Les tests deviennent plus complexes
 Le code devient difficilement réutilisable
 La Clean Architecture force à séparer clairement les rôles, ce qui améliore la lisibilité, l’évolutivité et la testabilité.
 
-🧱 Projet Django avec Clean Architecture
-Ce projet est une démonstration d'une implémentation simple de Clean Architecture dans Django, réalisée par Donald Programmeur.
 
 🏛️ Introduction à la Clean Architecture
 📜 Historique
